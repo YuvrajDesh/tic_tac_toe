@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="k">Enter How Much Cookies You Want</string>
+    <string name="c">Enter How Much Cookies You Want</string>
+    <string name="l">.</string>
+</resources>
